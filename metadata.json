@@ -1,0 +1,7 @@
+{
+  "name": "MindEase USM - Student Wellness Portal",
+  "description": "A holistic emotional wellness platform designed specifically for USM students to navigate academic and career stress through a four-stage process: Confront, Deconstruct, Release, and Resolve.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
